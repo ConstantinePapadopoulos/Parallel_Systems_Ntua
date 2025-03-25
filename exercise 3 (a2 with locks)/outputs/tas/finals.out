@@ -1,0 +1,8 @@
+Threads: 16, Total Time: 4.8809s)
+Threads: 1, Total Time: 1.8724s)
+Threads: 2, Total Time: 1.0256s)
+Threads: 32, Total Time: 11.5898s)
+Threads: 4, Total Time: 0.5854s)
+Threads: 64, Total Time: 10.3951s)
+Threads: 8, Total Time: 1.2875s)
+Threads: finals, Total Time: Not found
