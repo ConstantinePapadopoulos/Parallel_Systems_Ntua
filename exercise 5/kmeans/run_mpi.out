@@ -1,0 +1,15 @@
+nloops =  10 total = 11.0499
+nloops =  10 total =  5.5169
+nloops =  10 total =  2.7637
+nloops =  10 total =  1.3905
+nloops =  10 total =  0.7057
+nloops =  10 total =  0.3671
+nloops =  10 total =  0.2053
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 80 slots 
+that were requested by the application:
+  ./kmeans_mpi
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
